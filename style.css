@@ -178,9 +178,102 @@
     margin-top: 150px;
     margin-bottom: 15px;
 }
-.plan-para{
+.plan-para1{
     text-align: center;
+    margin-bottom: 2px;
+}
+.plan-para2{
+    text-align: center;
+    margin-bottom: 50px;
 }
 .plan-card{
-    display: inline;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.food-card{
+    margin-left: 200px;;
+    margin-right: 10px;
+    width: 400px;
+    height: 300px;
+    border: 1px solid aquamarine;
+    border-radius: 10px;
+    background-color: rgb(225, 244, 238) ;
+    border-color: aquamarine;
+    margin-bottom: 50px;
+}
+.shelter-card{
+    margin-left: 10px;;
+    margin-right: 10px;
+    width: 400px;
+    height: 300px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    border-color: blanchedalmond;
+    margin-bottom: 50px;
+}
+.edu-card{
+    margin-left: 10px;;
+    margin-right: 200px;
+    width: 400px;
+    height: 300px;
+    border: 1px solid antiquewhite;
+    border-radius: 10px;
+    background-color: antiquewhite ;
+    border-color: antiquewhite;
+    margin-bottom: 50px;
+}
+.food-image{
+    margin-top: 60px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.shelter-image{
+    margin-top: 60px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.edu-image{
+    margin-top: 60px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    height: 60px;
+    width: 100px;
+}
+.food-header{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+.shelter-header{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+.edu-header{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+.food-para{
+    margin-left: 10px;
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+.shelter-para{
+    margin-left: 10px;
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+.edu-para{
+    margin-left: 10px;
+    margin-bottom: 15px;
+    font-size: 15px;
 }
